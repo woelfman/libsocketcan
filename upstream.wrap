@@ -1,0 +1,6 @@
+[wrap-file]
+directory = libsocketcan-0.0.11
+
+source_url = https://git.pengutronix.de/cgit/tools/libsocketcan/snapshot/libsocketcan-0.0.11.tar.gz
+source_filename = libsocketcan-0.0.11.tar.gz
+source_hash = e7a0c17dcbd3c182fef175178580913b260eca3e932d37352b900e128a8babc5
